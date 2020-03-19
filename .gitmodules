@@ -1,3 +1,9 @@
 [submodule "resources/mall"]
 	path = resources/mall
 	url = https://github.com/macrozheng/mall.git
+[submodule "resources/vhr"]
+	path = resources/vhr
+	url = https://github.com/lenve/vhr.git
+[submodule "resources/mall-web"]
+	path = resources/mall-web
+	url = https://github.com/macrozheng/mall-admin-web.git
