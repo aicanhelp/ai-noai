@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>io.springall</groupId>
+        <artifactId>spring-all-parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>spring-boot-data-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>spring-boot-data-parent</name>
+    <description>Demo project for Spring boot data</description>
+
+    <modules>
+        <module>03.Spring-Boot-MyBatis</module>
+        <module>04.Spring-Boot-JdbcTemplate</module>
+        <module>05.Spring-Boot-MyBatis-MultiDataSource</module>
+        <module>06.Spring-Boot-JdbcTemplate-MultiDataSource</module>
+        <module>09.Spring-Boot-Redis-Cache</module>
+        <module>10.Spring-Boot-Ehcache-Cache</module>
+        <module>46.Spring-Boot-Hibernate-Validator</module>
+        <module>54.Spring-Boot-Kafka</module>
+        <module>56.Spring-Boot-MongoDB-crud</module>
+    </modules>
+</project>

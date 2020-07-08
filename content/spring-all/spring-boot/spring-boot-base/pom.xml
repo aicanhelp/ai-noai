@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>io.springall</groupId>
+        <artifactId>spring-all-parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>spring-boot-base-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>spring-boot-base-parent</name>
+    <description>Demo project for Spring boot base</description>
+
+    <modules>
+        <module>01.Start-Spring-Boot</module>
+        <module>02.Spring-Boot-Config</module>
+        <module>07.Spring-Boot-AOP-Log</module>
+        <module>08.Spring-Boot-Thymeleaf</module>
+        <module>18.Spring-Boot-Jackson</module>
+        <module>19.Spring-Boot-Testing</module>
+        <module>20.Spring-Boot-Swagger2</module>
+        <module>21.Spring-Boot-Actuator</module>
+        <module>22.Spring-Boot-Email</module>
+        <module>23.Spring-Boot-Admin</module>
+        <module>24.Spring-Boot-Devtools</module>
+        <module>25.Spring-Boot-Exception</module>
+        <module>26.Spring-Boot-Filter-Interceptor</module>
+        <module>27.Spring-Boot-Mapper-PageHelper</module>
+        <module>40.Spring-Boot-Dubbo-Zookeeper</module>
+        <module>44.Spring-Boot-Autoconfiguration</module>
+        <module>45.Spring-Boot-SpringApplication</module>
+        <module>47.Spring-Boot-Content-Negotiation</module>
+        <module>49.Spring-Boot-Async</module>
+        <module>50.Spring-Regist-Bean</module>
+        <module>51.Spring-boot-Bean-Lifecycle</module>
+        <module>53.Spring-boot-Dubbo-High-Availability</module>
+        <module>55.spring-boot-dubbo-applicaiton</module>
+    </modules>
+
+</project>

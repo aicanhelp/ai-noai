@@ -7,3 +7,15 @@
 [submodule "resources/mall-web"]
 	path = resources/mall-web
 	url = https://github.com/macrozheng/mall-admin-web.git
+[submodule "resources/spring-all"]
+	path = resources/spring-all
+	url = https://github.com/wuyouzhuguli/SpringAll.git
+[submodule "resources/spring-boot-examples"]
+	path = resources/spring-boot-examples
+	url = https://github.com/ityouknow/spring-boot-examples.git
+[submodule "resources/karaf"]
+	path = resources/karaf
+	url = https://github.com/apache/karaf.git
+[submodule "resources/wiki"]
+	path = resources/wiki
+	url = https://github.com/Requarks/wiki.git

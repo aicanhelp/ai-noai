@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>io.springall</groupId>
+        <artifactId>spring-all-parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>spring-batch-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>spring-batch-parent</name>
+    <description>Demo project for Spring batch</description>
+
+    <modules>
+        <module>67.spring-batch-start</module>
+        <module>68.spring-batch-itemreader</module>
+        <module>69.spring-batch-itemwriter</module>
+        <module>70.spring-batch-itemprocessor</module>
+        <module>71.spring-batch-listener</module>
+        <module>72.spring-batch-exception</module>
+        <module>73.spring-batch-launcher</module>
+    </modules>
+</project>

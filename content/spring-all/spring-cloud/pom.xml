@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>io.springall</groupId>
+        <artifactId>spring-all-parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>spring-cloud-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>spring-cloud-parent</name>
+    <description>Demo project for Spring cloud</description>
+
+    <modules>
+        <module>28.Spring-Cloud-Eureka-Server-Discovery</module>
+        <module>29.Spring-Cloud-Ribbon-LoadBalance</module>
+        <module>30.Spring-Cloud-Hystrix-Circuit-Breaker</module>
+        <module>31.Spring-Cloud-Hystrix-Dashboard-Turbine</module>
+        <module>32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ</module>
+        <module>33.Spring-Cloud-Feign-Declarative-REST-Client</module>
+        <module>39.Spring-Cloud-Zuul-Router</module>
+        <module>41.Spring-Cloud-Config</module>
+        <module>42.Spring-Cloud-Bus</module>
+        <module>43.Spring-Cloud-Sleuth</module>
+        <module>55.Spring-Cloud-Consul</module>
+        <module>74.spring-cloud-alibaba-nacos-register</module>
+        <module>75.spring-cloud-alibaba-nacos-config</module>
+        <module>77.spring-cloud-alibaba-sentinel-dashboard-guide</module>
+        <module>78.spring-cloud-alibaba-sentinelresource</module>
+    </modules>
+</project>

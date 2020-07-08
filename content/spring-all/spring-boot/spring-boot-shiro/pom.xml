@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>io.springall</groupId>
+        <artifactId>spring-all-parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>spring-boot-shiro-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>spring-boot-shiro-parent</name>
+    <description>Demo project for Spring boot shiro</description>
+
+    <modules>
+        <module>11.Spring-Boot-Shiro-Authentication</module>
+        <module>12.Spring-Boot-Shiro-RememberMe</module>
+        <module>13.Spring-Boot-Shiro-Authorization</module>
+        <module>14.Spring-Boot-Shiro-Redis</module>
+        <module>15.Spring-Boot-Shiro-Ehcache</module>
+        <module>16.Spring-Boot-Shiro-Thymeleaf-Tag</module>
+        <module>17.Spring-Boot-Shiro-Session</module>
+        <module>62.Spring-Boot-Shiro-JWT</module>
+    </modules>
+</project>

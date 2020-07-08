@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-Boot-Jackson" />
+        <module name="Server-Provider2" />
+        <module name="Server-Provider1" />
+        <module name="Spring-Boot-Config" />
+        <module name="Ribbon-Consumer (3)" />
+        <module name="Eureka-Service (4)" />
+        <module name="Spring-Boot-AOP-Log" />
+        <module name="Spring-Boot-Shiro-Thymeleaf-Tag" />
+        <module name="Spring-Boot-MyBatis" />
+        <module name="Zuul-Gateway" />
+        <module name="Eureka-Client (5)" />
+        <module name="Config-Server (2)" />
+        <module name="Spring-Boot-Shiro-Authentication" />
+        <module name="Eureka-Service (6)" />
+        <module name="common-api (1)" />
+        <module name="Eureka-Service (9)" />
+        <module name="provider (1)" />
+        <module name="Spring-Boot-Filter-Interceptor" />
+        <module name="sso-application-one" />
+        <module name="Spring-Security-RemenberMe" />
+        <module name="apef-testing" />
+        <module name="Ribbon-Consumer (2)" />
+        <module name="Eureka-Service (3)" />
+        <module name="server-consumer (1)" />
+        <module name="Spring-Boot-Shiro-Authorization" />
+        <module name="Spring-Boot-JdbcTemplate" />
+        <module name="Spring-Boot-Shiro-RememberMe" />
+        <module name="Spring-Boot-JdbcTemplate-MultiDataSource" />
+        <module name="spring-batch-start" />
+        <module name="server-consumer (4) (com.example)" />
+        <module name="apef-repository" />
+        <module name="demo (5)" />
+        <module name="Eureka-Client (3)" />
+        <module name="mongodb" />
+        <module name="Turbine" />
+        <module name="Spring-Boot-Admin-Server" />
+        <module name="Spring-Boot-Devtools" />
+        <module name="demo (7)" />
+        <module name="apef-core" />
+        <module name="server-provider (4) (com.example)" />
+        <module name="Security (4)" />
+        <module name="Start-Spring-Security" />
+        <module name="Spring-Boot-Email" />
+        <module name="apef-sdef" />
+        <module name="server-provider (3)" />
+        <module name="Eureka-Service (7)" />
+        <module name="autoconfig" />
+        <module name="Turbine-Stream" />
+        <module name="spring-batch-listener" />
+        <module name="Eureka-Client (2)" />
+        <module name="apef-metrics" />
+        <module name="security (3)" />
+        <module name="apef-connector" />
+        <module name="spring-cloud-alibaba-sentinel-dashboard-guide" />
+        <module name="server-provider (1)" />
+        <module name="Feign-Consumer (1)" />
+        <module name="Spring-Boot-Thymeleaf" />
+        <module name="spring-batch-exception" />
+        <module name="consumer (2)" />
+        <module name="Security (3)" />
+        <module name="demo (6) (com.springboot)" />
+        <module name="Spring-Boot-Ehcache-Cache" />
+        <module name="Eureka-Service (1)" />
+        <module name="webflux (2)" />
+        <module name="Security (8)" />
+        <module name="sso-server" />
+        <module name="Spring-Boot-Swagger2" />
+        <module name="Spring-Security-Authentication" />
+        <module name="Server-Consumer" />
+        <module name="spring-batch-itemwriter" />
+        <module name="Eureka-Client (1)" />
+        <module name="Spring-Boot-admin-Client" />
+        <module name="server-consumer (2)" />
+        <module name="Eureka-Service" />
+        <module name="Spring-Boot-Testing" />
+        <module name="Eureka-Client (6)" />
+        <module name="SpringApplication" />
+        <module name="apef-base" />
+        <module name="demo (8)" />
+        <module name="spring-cloud-alibaba-nacos-config" />
+        <module name="Security (2)" />
+        <module name="spring-batch-launcher" />
+        <module name="Zipkin-Server" />
+        <module name="Security (6)" />
+        <module name="Eureka-Service (8)" />
+        <module name="Hystrix-Dashboard (1)" />
+        <module name="Spring-Boot-Shiro-Redis" />
+        <module name="Spring-Boot-Actuator" />
+        <module name="spring-boot-websocket-socketjs" />
+        <module name="Spring-Boot-Redis-Cache" />
+        <module name="Ribbon-Consumer (4)" />
+        <module name="Eureka-Service (5)" />
+        <module name="Spring-Boot-MyBatis-MultiDataSource" />
+        <module name="Spring-Boot-Exception" />
+        <module name="Spring-Boot-Shiro-Ehcache" />
+        <module name="demo (2)" />
+        <module name="Security (5)" />
+        <module name="Security (7)" />
+        <module name="security (2)" />
+        <module name="Start-Spring-Boot" />
+        <module name="validator" />
+        <module name="sso-application-two" />
+        <module name="common-api (2)" />
+        <module name="Eureka-Client" />
+        <module name="Config-Client (1)" />
+        <module name="spring-batch-itemprocessor" />
+        <module name="Spring-Boot-Mapper-PageHelper" />
+        <module name="demo (3)" />
+        <module name="spring-batch-itemreader" />
+      </profile>
+      <profile name="Annotation profile for Hystrix-Dashboard (2)" enabled="true">
+        <sourceOutputDir name="../../31.Spring-Cloud-Hystrix-Dashboard-Turbine/Hystrix-Dashboard/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../31.Spring-Cloud-Hystrix-Dashboard-Turbine/Hystrix-Dashboard/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Hystrix-Dashboard (2)" />
+      </profile>
+      <profile name="Annotation profile for Feign-Consumer (2)" enabled="true">
+        <sourceOutputDir name="../../33.Spring-Cloud-Feign-Declarative-REST-Client/Feign-Consumer/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../33.Spring-Cloud-Feign-Declarative-REST-Client/Feign-Consumer/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Feign-Consumer (2)" />
+      </profile>
+      <profile name="Annotation profile for demo (4)" enabled="true">
+        <sourceOutputDir name="../50.Spring-Regist-Bean/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../50.Spring-Regist-Bean/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo (4)" />
+      </profile>
+      <profile name="Annotation profile for server-provider (2)" enabled="true">
+        <sourceOutputDir name="../../40.Spring-Boot-Dubbo-Zookeeper/server-provider/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../40.Spring-Boot-Dubbo-Zookeeper/server-provider/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="server-provider (2)" />
+      </profile>
+      <profile name="Annotation profile for Config-Client (2)" enabled="true">
+        <sourceOutputDir name="../../41.Spring-Cloud-Config/config-client/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../41.Spring-Cloud-Config/config-client/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Config-Client (2)" />
+      </profile>
+      <profile name="Annotation profile for webflux (1)" enabled="true">
+        <sourceOutputDir name="../../58.Spring-Boot-WebFlux-crud/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../58.Spring-Boot-WebFlux-crud/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="webflux (1)" />
+      </profile>
+      <profile name="Annotation profile for provider (2)" enabled="true">
+        <sourceOutputDir name="../../74.spring-cloud-alibaba-nacos-register/provider/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../74.spring-cloud-alibaba-nacos-register/provider/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="provider (2)" />
+      </profile>
+      <profile name="Annotation profile for Eureka-Client (4)" enabled="true">
+        <sourceOutputDir name="../../30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Client/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Client/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Eureka-Client (4)" />
+      </profile>
+      <profile name="Annotation profile for Ribbon-Consumer (1)" enabled="true">
+        <sourceOutputDir name="../../31.Spring-Cloud-Hystrix-Dashboard-Turbine/Ribbon-Consumer/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../31.Spring-Cloud-Hystrix-Dashboard-Turbine/Ribbon-Consumer/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Ribbon-Consumer (1)" />
+      </profile>
+      <profile name="Annotation profile for Eureka-Service (2)" enabled="true">
+        <sourceOutputDir name="../../33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Service/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Service/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Eureka-Service (2)" />
+      </profile>
+      <profile name="Annotation profile for common-api (3)" enabled="true">
+        <sourceOutputDir name="../../53.Spring-boot-Dubbo-High-Availability/common-api/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../53.Spring-boot-Dubbo-High-Availability/common-api/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-api (3)" />
+      </profile>
+      <profile name="Annotation profile for server-consumer (3)" enabled="true">
+        <sourceOutputDir name="../../53.Spring-boot-Dubbo-High-Availability/server-consumer/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../53.Spring-boot-Dubbo-High-Availability/server-consumer/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="server-consumer (3)" />
+      </profile>
+      <profile name="Annotation profile for consumer (1)" enabled="true">
+        <sourceOutputDir name="../../78.spring-cloud-alibaba-sentinelresource/consumer/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../78.spring-cloud-alibaba-sentinelresource/consumer/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer (1)" />
+      </profile>
+      <profile name="Annotation profile for Config-Server (1)" enabled="true">
+        <sourceOutputDir name="../../42.Spring-Cloud-Bus/config-server/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../42.Spring-Cloud-Bus/config-server/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Config-Server (1)" />
+      </profile>
+      <profile name="Annotation profile for security (1)" enabled="true">
+        <sourceOutputDir name="../65.Spring-Security-OAuth2-Config/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../65.Spring-Security-OAuth2-Config/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="security (1)" />
+      </profile>
+      <profile name="Annotation profile for spring-all-parent" enabled="true">
+        <sourceOutputDir name="../../spring-boot-data/54.Spring-Boot-Kafka/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../spring-boot-data/54.Spring-Boot-Kafka/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo (1)" />
+      </profile>
+      <profile name="Annotation profile for Security (1)" enabled="true">
+        <sourceOutputDir name="../38.Spring-Security-SmsCode/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../38.Spring-Security-SmsCode/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Security (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apef-base" target="1.8" />
+      <module name="apef-build" target="1.8" />
+      <module name="apef-connector" target="1.8" />
+      <module name="apef-core" target="1.8" />
+      <module name="apef-metrics" target="1.8" />
+      <module name="apef-parent" target="1.8" />
+      <module name="apef-repository" target="1.8" />
+      <module name="apef-sdef" target="1.8" />
+      <module name="apef-testing" target="1.8" />
+      <module name="autoconfig" target="1.8" />
+      <module name="common-api (1)" target="1.8" />
+      <module name="common-api (2)" target="1.8" />
+      <module name="common-api (3)" target="1.8" />
+      <module name="Config-Client (1)" target="1.8" />
+      <module name="Config-Client (2)" target="1.8" />
+      <module name="Config-Server (1)" target="1.8" />
+      <module name="Config-Server (2)" target="1.8" />
+      <module name="consumer (1)" target="1.8" />
+      <module name="consumer (2)" target="1.8" />
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="demo (3)" target="1.8" />
+      <module name="demo (4)" target="1.8" />
+      <module name="demo (5)" target="1.8" />
+      <module name="demo (6) (com.springboot)" target="1.7" />
+      <module name="demo (7)" target="1.8" />
+      <module name="demo (8)" target="1.8" />
+      <module name="dubbo-boot (1)" target="1.8" />
+      <module name="dubbo-boot (2)" target="1.8" />
+      <module name="dubbo-boot (3)" target="1.8" />
+      <module name="Eureka-Client" target="1.8" />
+      <module name="Eureka-Client (1)" target="1.8" />
+      <module name="Eureka-Client (2)" target="1.8" />
+      <module name="Eureka-Client (3)" target="1.8" />
+      <module name="Eureka-Client (4)" target="1.8" />
+      <module name="Eureka-Client (5)" target="1.8" />
+      <module name="Eureka-Client (6)" target="1.8" />
+      <module name="Eureka-Service" target="1.8" />
+      <module name="Eureka-Service (1)" target="1.8" />
+      <module name="Eureka-Service (2)" target="1.8" />
+      <module name="Eureka-Service (3)" target="1.8" />
+      <module name="Eureka-Service (4)" target="1.8" />
+      <module name="Eureka-Service (5)" target="1.8" />
+      <module name="Eureka-Service (6)" target="1.8" />
+      <module name="Eureka-Service (7)" target="1.8" />
+      <module name="Eureka-Service (8)" target="1.8" />
+      <module name="Eureka-Service (9)" target="1.8" />
+      <module name="Feign-Consumer (1)" target="1.8" />
+      <module name="Feign-Consumer (2)" target="1.8" />
+      <module name="Hystrix-Dashboard (1)" target="1.8" />
+      <module name="Hystrix-Dashboard (2)" target="1.8" />
+      <module name="mongodb" target="1.8" />
+      <module name="provider (1)" target="1.8" />
+      <module name="provider (2)" target="1.8" />
+      <module name="Ribbon-Consumer (1)" target="1.8" />
+      <module name="Ribbon-Consumer (2)" target="1.8" />
+      <module name="Ribbon-Consumer (3)" target="1.8" />
+      <module name="Ribbon-Consumer (4)" target="1.8" />
+      <module name="Security (1)" target="1.8" />
+      <module name="security (1)" target="1.8" />
+      <module name="Security (2)" target="1.8" />
+      <module name="security (2)" target="1.8" />
+      <module name="Security (3)" target="1.8" />
+      <module name="security (3)" target="1.8" />
+      <module name="Security (4)" target="1.8" />
+      <module name="Security (5)" target="1.8" />
+      <module name="Security (6)" target="1.8" />
+      <module name="Security (7)" target="1.8" />
+      <module name="Security (8)" target="1.8" />
+      <module name="Server-Consumer" target="1.8" />
+      <module name="server-consumer (1)" target="1.8" />
+      <module name="server-consumer (2)" target="1.8" />
+      <module name="server-consumer (3)" target="1.8" />
+      <module name="server-consumer (4) (com.example)" target="1.8" />
+      <module name="server-provider (1)" target="1.8" />
+      <module name="server-provider (2)" target="1.8" />
+      <module name="server-provider (3)" target="1.8" />
+      <module name="server-provider (4) (com.example)" target="1.8" />
+      <module name="Server-Provider1" target="1.8" />
+      <module name="Server-Provider2" target="1.8" />
+      <module name="Spring-All" target="1.8" />
+      <module name="spring-batch-exception" target="1.8" />
+      <module name="spring-batch-itemprocessor" target="1.8" />
+      <module name="spring-batch-itemreader" target="1.8" />
+      <module name="spring-batch-itemwriter" target="1.8" />
+      <module name="spring-batch-launcher" target="1.8" />
+      <module name="spring-batch-listener" target="1.8" />
+      <module name="spring-batch-parent" target="1.8" />
+      <module name="spring-batch-start" target="1.8" />
+      <module name="Spring-Boot-Actuator" target="1.7" />
+      <module name="Spring-Boot-admin-Client" target="1.7" />
+      <module name="spring-boot-admin-parent" target="1.8" />
+      <module name="Spring-Boot-Admin-Server" target="1.7" />
+      <module name="Spring-Boot-AOP-Log" target="1.7" />
+      <module name="spring-boot-base-parent" target="1.8" />
+      <module name="Spring-Boot-Config" target="1.7" />
+      <module name="spring-boot-data-parent" target="1.8" />
+      <module name="Spring-Boot-Devtools" target="1.7" />
+      <module name="Spring-Boot-Ehcache-Cache" target="1.7" />
+      <module name="Spring-Boot-Email" target="1.7" />
+      <module name="Spring-Boot-Exception" target="1.8" />
+      <module name="Spring-Boot-Filter-Interceptor" target="1.8" />
+      <module name="Spring-Boot-Jackson" target="1.7" />
+      <module name="Spring-Boot-JdbcTemplate" target="1.7" />
+      <module name="Spring-Boot-JdbcTemplate-MultiDataSource" target="1.7" />
+      <module name="Spring-Boot-Mapper-PageHelper" target="1.7" />
+      <module name="Spring-Boot-MyBatis" target="1.7" />
+      <module name="Spring-Boot-MyBatis-MultiDataSource" target="1.7" />
+      <module name="spring-boot-parent" target="1.8" />
+      <module name="Spring-Boot-Redis-Cache" target="1.7" />
+      <module name="Spring-Boot-Shiro-Authentication" target="1.7" />
+      <module name="Spring-Boot-Shiro-Authorization" target="1.7" />
+      <module name="Spring-Boot-Shiro-Ehcache" target="1.7" />
+      <module name="spring-boot-shiro-parent" target="1.8" />
+      <module name="Spring-Boot-Shiro-Redis" target="1.7" />
+      <module name="Spring-Boot-Shiro-RememberMe" target="1.7" />
+      <module name="Spring-Boot-Shiro-Thymeleaf-Tag" target="1.7" />
+      <module name="Spring-Boot-Swagger2" target="1.7" />
+      <module name="Spring-Boot-Testing" target="1.7" />
+      <module name="Spring-Boot-Thymeleaf" target="1.7" />
+      <module name="spring-boot-web-parent" target="1.8" />
+      <module name="spring-boot-websocket-socketjs" target="1.8" />
+      <module name="spring-cloud-alibaba-nacos-config" target="1.8" />
+      <module name="spring-cloud-alibaba-nacos-register" target="1.8" />
+      <module name="spring-cloud-alibaba-sentinel-dashboard-guide" target="1.8" />
+      <module name="spring-cloud-alibaba-sentinelresource" target="1.8" />
+      <module name="spring-cloud-bus-parent" target="1.8" />
+      <module name="spring-cloud-config-parent" target="1.8" />
+      <module name="spring-cloud-consul-parent" target="1.8" />
+      <module name="spring-cloud-eureka-parent" target="1.8" />
+      <module name="spring-cloud-Feign-parent (1)" target="1.8" />
+      <module name="spring-cloud-Feign-parent (2)" target="1.8" />
+      <module name="spring-cloud-hystrix-circuit-parent" target="1.8" />
+      <module name="spring-cloud-hystrix-dashboard-turbine-mq-parent" target="1.8" />
+      <module name="spring-cloud-hystrix-dashboard-turbine-parent" target="1.8" />
+      <module name="spring-cloud-parent" target="1.8" />
+      <module name="spring-cloud-ribbon-parent" target="1.8" />
+      <module name="spring-cloud-sleuth-parent" target="1.8" />
+      <module name="Spring-Security-Authentication" target="1.8" />
+      <module name="spring-security-parent" target="1.8" />
+      <module name="Spring-Security-RemenberMe" target="1.8" />
+      <module name="SpringApplication" target="1.8" />
+      <module name="sso" target="1.8" />
+      <module name="sso-application-one" target="1.8" />
+      <module name="sso-application-two" target="1.8" />
+      <module name="sso-server" target="1.8" />
+      <module name="Start-Spring-Boot" target="1.7" />
+      <module name="Start-Spring-Security" target="1.8" />
+      <module name="Turbine" target="1.8" />
+      <module name="Turbine-Stream" target="1.8" />
+      <module name="validator" target="1.8" />
+      <module name="webflux (1)" target="1.8" />
+      <module name="webflux (2)" target="1.8" />
+      <module name="Zipkin-Server" target="1.8" />
+      <module name="Zuul-Gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Eureka-Client" options="-parameters" />
+      <module name="Eureka-Service" options="-parameters" />
+      <module name="Security (1)" options="-parameters" />
+      <module name="Server-Consumer" options="-parameters" />
+      <module name="SpringApplication" options="-parameters" />
+      <module name="Start-Spring-Security" options="-parameters" />
+      <module name="autoconfig" options="-parameters" />
+      <module name="common-api (1)" options="-parameters" />
+      <module name="common-api (3)" options="-parameters" />
+      <module name="consumer (1)" options="-parameters" />
+      <module name="consumer (2)" options="-parameters" />
+      <module name="demo (1)" options="-parameters" />
+      <module name="demo (4)" options="-parameters" />
+      <module name="demo (7)" options="-parameters" />
+      <module name="mongodb" options="-parameters" />
+      <module name="provider (1)" options="-parameters" />
+      <module name="provider (2)" options="-parameters" />
+      <module name="security (1)" options="-parameters" />
+      <module name="security (2)" options="-parameters" />
+      <module name="security (3)" options="-parameters" />
+      <module name="server-consumer (2)" options="-parameters" />
+      <module name="server-consumer (3)" options="-parameters" />
+      <module name="server-consumer (4) (com.example)" options="-parameters" />
+      <module name="server-provider (2)" options="-parameters" />
+      <module name="server-provider (4) (com.example)" options="-parameters" />
+      <module name="spring-batch-exception" options="-parameters" />
+      <module name="spring-batch-itemprocessor" options="-parameters" />
+      <module name="spring-batch-itemreader" options="-parameters" />
+      <module name="spring-batch-itemwriter" options="-parameters" />
+      <module name="spring-batch-launcher" options="-parameters" />
+      <module name="spring-batch-listener" options="-parameters" />
+      <module name="spring-batch-start" options="-parameters" />
+      <module name="spring-boot-websocket-socketjs" options="-parameters" />
+      <module name="spring-cloud-alibaba-nacos-config" options="-parameters" />
+      <module name="spring-cloud-alibaba-sentinel-dashboard-guide" options="-parameters" />
+      <module name="sso-application-one" options="-parameters" />
+      <module name="sso-application-two" options="-parameters" />
+      <module name="sso-server" options="-parameters" />
+      <module name="validator" options="-parameters" />
+      <module name="webflux (1)" options="-parameters" />
+      <module name="webflux (2)" options="-parameters" />
+    </option>
+  </component>
+</project>
