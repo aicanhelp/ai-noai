@@ -19,3 +19,6 @@
 [submodule "resources/wiki"]
 	path = resources/wiki
 	url = https://github.com/Requarks/wiki.git
+[submodule "resources/spring-cloud-kubernetes"]
+	path = resources/spring-cloud-kubernetes
+	url = https://github.com/spring-cloud/spring-cloud-kubernetes.git
