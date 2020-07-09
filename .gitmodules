@@ -22,3 +22,6 @@
 [submodule "resources/spring-cloud-kubernetes"]
 	path = resources/spring-cloud-kubernetes
 	url = https://github.com/spring-cloud/spring-cloud-kubernetes.git
+[submodule "resources/shardingsphere"]
+	path = resources/shardingsphere
+	url = https://github.com/apache/shardingsphere.git
