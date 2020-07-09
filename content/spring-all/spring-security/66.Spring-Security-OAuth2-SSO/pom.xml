@@ -15,7 +15,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cc.mrbird</groupId>
-    <artifactId>sso</artifactId>
+    <artifactId>Spring-Security-OAuth2-SSO</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Spring-Security-OAuth2-SSO</name>
     <description>Demo project for Spring Boot</description>

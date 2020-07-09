@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cc.mrbird</groupId>
-    <artifactId>security</artifactId>
+    <artifactId>Spring-Security-OAuth2-Customize</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Spring-Security-OAuth2-Customize</name>
     <description>Demo project for Spring Boot</description>
