@@ -25,3 +25,9 @@
 [submodule "resources/shardingsphere"]
 	path = resources/shardingsphere
 	url = https://github.com/apache/shardingsphere.git
+[submodule "resources/java9-vertx"]
+	path = resources/java9-vertx
+	url = https://github.com/java9-modularity/java9-vertx.git
+[submodule "resources/java9-modularity-examples"]
+	path = resources/java9-modularity-examples
+	url = https://github.com/java9-modularity/examples.git
