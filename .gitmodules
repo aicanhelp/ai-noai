@@ -31,3 +31,12 @@
 [submodule "resources/java9-modularity-examples"]
 	path = resources/java9-modularity-examples
 	url = https://github.com/java9-modularity/examples.git
+[submodule "resources/beego"]
+	path = resources/beego
+	url = https://github.com/astaxie/beego.git
+[submodule "resources/beego-example"]
+	path = resources/beego-example
+	url = https://github.com/beego/beego-example.git
+[submodule "resources/mindoc"]
+	path = resources/mindoc
+	url = https://github.com/lifei6671/mindoc.git
