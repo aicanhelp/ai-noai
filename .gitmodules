@@ -43,3 +43,6 @@
 [submodule "resources/make-money"]
 	path = resources/make-money
 	url = https://github.com/easychen/howto-make-more-money.git
+[submodule "resources/sogou-workflow"]
+	path = resources/sogou-workflow
+	url = https://hub.fastgit.org/sogou/workflow.git
