@@ -46,3 +46,6 @@
 [submodule "resources/sogou-workflow"]
 	path = resources/sogou-workflow
 	url = https://hub.fastgit.org/sogou/workflow.git
+[submodule "resources/ceph"]
+	path = resources/ceph
+	url = https://github.com/ceph/ceph.git
