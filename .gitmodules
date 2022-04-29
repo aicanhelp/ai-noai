@@ -49,3 +49,27 @@
 [submodule "resources/ceph"]
 	path = resources/ceph
 	url = https://github.com/ceph/ceph.git
+[submodule "resources/spring-cloud-stream-samples"]
+	path = resources/spring-cloud-stream-samples
+	url = https://github.com/spring-cloud/spring-cloud-stream-samples.git
+[submodule "resources/spring-stream-applications"]
+	path = resources/spring-stream-applications
+	url = https://github.com/spring-cloud/stream-applications.git
+[submodule "resources/spring-clout-stream-demo"]
+	path = resources/spring-clout-stream-demo
+	url = https://github.com/benwilcock/spring-cloud-stream-demo.git
+[submodule "resources/spring-data-example"]
+	path = resources/spring-data-example
+	url = https://github.com/spring-projects/spring-data-examples.git
+[submodule "resources/quarkusio/quarkus"]
+	path = resources/quarkusio/quarkus
+	url = https://github.com/quarkusio/quarkus.git
+[submodule "resources/quarkusio/quickstarts"]
+	path = resources/quarkusio/quickstarts
+	url = https://github.com/quarkusio/quarkus-quickstarts.git
+[submodule "resources/quarkusio/platform"]
+	path = resources/quarkusio/platform
+	url = https://github.com/quarkusio/quarkus-platform.git
+[submodule "resources/quarkusio/super-heroes"]
+	path = resources/quarkusio/super-heroes
+	url = https://github.com/quarkusio/quarkus-super-heroes.git
