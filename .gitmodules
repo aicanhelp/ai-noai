@@ -73,3 +73,9 @@
 [submodule "resources/quarkusio/super-heroes"]
 	path = resources/quarkusio/super-heroes
 	url = https://github.com/quarkusio/quarkus-super-heroes.git
+[submodule "resources/java-graalvm-start"]
+	path = resources/java-graalvm-start
+	url = https://gitee.com/westinyang/java-graalvm-start.git
+[submodule "resources/quarkus-quick"]
+	path = resources/quarkus-quick
+	url = https://github.com/quarkusio/quarkus-quickstarts.git
