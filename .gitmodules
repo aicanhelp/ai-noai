@@ -229,3 +229,21 @@
 [submodule "resources/mall-swarm"]
 	path = resources/mall-swarm
 	url = https://github.com/macrozheng/mall-swarm.git
+[submodule "resources/spring-boot-best-practice"]
+	path = resources/spring-boot-best-practice
+	url = https://github.com/javastacks/spring-boot-best-practice.git
+[submodule "resources/gitlab"]
+	path = resources/gitlab
+	url = https://github.com/gitlabhq/gitlabhq.git
+[submodule "resources/gitlab-operator"]
+	path = resources/gitlab-operator
+	url = https://gitlab.com/gitlab-org/cloud-native/gitlab-operator.git
+[submodule "resources/gitlab-charts"]
+	path = resources/gitlab-charts
+	url = https://gitlab.com/gitlab-org/charts/gitlab.git
+[submodule "resources/java-gitea-api"]
+	path = resources/java-gitea-api
+	url = https://github.com/zeripath/java-gitea-api.git
+[submodule "resources/gitea"]
+	path = resources/gitea
+	url = https://github.com/go-gitea/gitea.git
