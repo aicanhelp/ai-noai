@@ -152,13 +152,13 @@
 	path = resources/dromara/x-file-storage
 	url = https://github.com/dromara/x-file-storage.git
 [submodule "resources/dramara/dante-cloud"]
-	path = resources/dramara/dante-cloud
+	path = app-demo-projects/dramara/dante-cloud
 	url = https://github.com/dromara/dante-cloud.git
 [submodule "resources/dramara/dante-engine"]
-	path = resources/dramara/dante-engine
+	path = app-demo-projects/dramara/dante-engine
 	url = https://github.com/herodotus-ecosystem/dante-engine.git
 [submodule "resources/dramara/dante-oss"]
-	path = resources/dramara/dante-oss
+	path = app-demo-projects/dramara/dante-oss
 	url = https://github.com/herodotus-ecosystem/dante-oss.git
 [submodule "resources/lamp-boot"]
 	path = app-demo-projects/lamp/lamp-boot
