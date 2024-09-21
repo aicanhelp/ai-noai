@@ -47,16 +47,31 @@ function do_update(){
   local name=${2}
 
   local dirs="${name}"
-  test -z $dirs && dirs=`ls ${type}-projects`
+  test -z $dirs && dirs=`ls -d ${type}-projects/*/`
   
   for dir in $dirs
   do
-      MOD_NAME=$1-projects/${dir}
-      cd ${MOD_NAME}
-      git pull
+      cd ${dir}
+      if test -e .git; then
+        echo "Updating ${dir}"
+        git pull
+      else
+        sub_dirs=`ls -d */`
+        for sub_dir in ${sub_dirs}
+        do
+           cd $sub_dir
+           if test -e .git; then
+              echo "Updating ${dir}${sub_dir}"
+              git pull
+           fi
+           cd ..
+        done
+      fi
       cd ${cur_dir}
   done
+
 }
+
 
 function do_update_all(){
    git submodule update --recursive

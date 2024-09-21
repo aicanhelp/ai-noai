@@ -41,7 +41,7 @@
 	path = apidoc-projects/mindoc
 	url = https://github.com/lifei6671/mindoc.git
 [submodule "resources/make-money"]
-	path = resources/make-money
+	path = others-projects/make-money
 	url = https://github.com/easychen/howto-make-more-money.git
 [submodule "resources/sogou-workflow"]
 	path = others-projects/sogou-workflow
