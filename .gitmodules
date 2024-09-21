@@ -247,3 +247,30 @@
 [submodule "resources/gitea"]
 	path = resources/gitea
 	url = https://github.com/go-gitea/gitea.git
+[submodule "resources/full-stack-fastapi-template"]
+	path = resources/full-stack-fastapi-template
+	url = https://github.com/tiangolo/full-stack-fastapi-template.git
+[submodule "resources/kubeedge/mappers-go"]
+	path = resources/kubeedge/mappers-go
+	url = https://github.com/kubeedge/mappers-go.git
+[submodule "resources/kubeedge/edgemesh"]
+	path = resources/kubeedge/edgemesh
+	url = https://github.com/kubeedge/edgemesh.git
+[submodule "resources/iot-simulators/simulators"]
+	path = resources/iot-simulators/simulators
+	url = https://github.com/amine-amaach/simulators.git
+[submodule "resources/iot-simulators/jetlinks-simulator"]
+	path = resources/iot-simulators/jetlinks-simulator
+	url = https://github.com/jetlinks/device-simulator.git
+[submodule "resources/iot-simulators/modbus-simulator"]
+	path = resources/iot-simulators/modbus-simulator
+	url = https://github.com/pymodbus-dev/modbus-simulator.git
+[submodule "resources/iot-simulators/java-modbus-simulator"]
+	path = resources/iot-simulators/java-modbus-simulator
+	url = https://github.com/SciFiDryer/ModbusMechanic.git
+[submodule "resources/kubeedge/mapper-generator"]
+	path = resources/kubeedge/mapper-generator
+	url = https://github.com/wbc6080/mapper-generator.git
+[submodule "resources/kubeedge/mappers-go-others"]
+	path = resources/kubeedge/mappers-go-others
+	url = https://github.com/wbc6080/mappers-go.git
