@@ -1,152 +1,152 @@
 [submodule "resources/mall"]
-	path = resources/mall
+	path = app-demo-projects/mall
 	url = https://github.com/macrozheng/mall.git
 [submodule "resources/vhr"]
-	path = resources/vhr
+	path = app-demo-projects/vhr
 	url = https://github.com/lenve/vhr.git
 [submodule "resources/mall-web"]
-	path = resources/mall-web
+	path = app-demo-projects/mall-web
 	url = https://github.com/macrozheng/mall-admin-web.git
 [submodule "resources/spring-all"]
-	path = resources/spring-all
+	path = spring-projects/spring-all
 	url = https://github.com/wuyouzhuguli/SpringAll.git
 [submodule "resources/spring-boot-examples"]
-	path = resources/spring-boot-examples
+	path = spring-boot-projects/spring-boot-examples
 	url = https://github.com/ityouknow/spring-boot-examples.git
 [submodule "resources/karaf"]
 	path = resources/karaf
 	url = https://github.com/apache/karaf.git
 [submodule "resources/wiki"]
-	path = resources/wiki
+	path = wiki-projects/wiki
 	url = https://github.com/Requarks/wiki.git
 [submodule "resources/spring-cloud-kubernetes"]
-	path = resources/spring-cloud-kubernetes
+	path = spring-cloud-projects/spring-cloud-kubernetes
 	url = https://github.com/spring-cloud/spring-cloud-kubernetes.git
 [submodule "resources/shardingsphere"]
-	path = resources/shardingsphere
+	path = database-projects/shardingsphere
 	url = https://github.com/apache/shardingsphere.git
 [submodule "resources/java9-vertx"]
-	path = resources/java9-vertx
+	path = java-projects/java9-vertx
 	url = https://github.com/java9-modularity/java9-vertx.git
 [submodule "resources/java9-modularity-examples"]
-	path = resources/java9-modularity-examples
+	path = java-projects/java9-modularity-examples
 	url = https://github.com/java9-modularity/examples.git
 [submodule "resources/beego"]
-	path = resources/beego
+	path = golang-projects/beego
 	url = https://github.com/astaxie/beego.git
 [submodule "resources/beego-example"]
-	path = resources/beego-example
+	path = golang-projects/beego-example
 	url = https://github.com/beego/beego-example.git
 [submodule "resources/mindoc"]
-	path = resources/mindoc
+	path = apidoc-projects/mindoc
 	url = https://github.com/lifei6671/mindoc.git
 [submodule "resources/make-money"]
 	path = resources/make-money
 	url = https://github.com/easychen/howto-make-more-money.git
 [submodule "resources/sogou-workflow"]
-	path = resources/sogou-workflow
+	path = others-projects/sogou-workflow
 	url = https://hub.fastgit.org/sogou/workflow.git
 [submodule "resources/ceph"]
 	path = resources/ceph
 	url = https://github.com/ceph/ceph.git
 [submodule "resources/spring-cloud-stream-samples"]
-	path = resources/spring-cloud-stream-samples
+	path = spring-cloud-projects/spring-cloud-stream-samples
 	url = https://github.com/spring-cloud/spring-cloud-stream-samples.git
 [submodule "resources/spring-stream-applications"]
-	path = resources/spring-stream-applications
+	path = spring-projects/spring-stream-applications
 	url = https://github.com/spring-cloud/stream-applications.git
 [submodule "resources/spring-clout-stream-demo"]
-	path = resources/spring-clout-stream-demo
+	path = spring-cloud-projects/spring-clout-stream-demo
 	url = https://github.com/benwilcock/spring-cloud-stream-demo.git
 [submodule "resources/spring-data-example"]
-	path = resources/spring-data-example
+	path = spring-projects/spring-data-example
 	url = https://github.com/spring-projects/spring-data-examples.git
 [submodule "resources/quarkusio/quarkus"]
-	path = resources/quarkusio/quarkus
+	path = quarkusio-projects/quarkus
 	url = https://github.com/quarkusio/quarkus.git
 [submodule "resources/quarkusio/quickstarts"]
-	path = resources/quarkusio/quickstarts
+	path = quarkusio-projects/quickstarts
 	url = https://github.com/quarkusio/quarkus-quickstarts.git
 [submodule "resources/quarkusio/platform"]
-	path = resources/quarkusio/platform
+	path = quarkusio-projects/platform
 	url = https://github.com/quarkusio/quarkus-platform.git
 [submodule "resources/quarkusio/super-heroes"]
-	path = resources/quarkusio/super-heroes
+	path = quarkusio-projects/super-heroes
 	url = https://github.com/quarkusio/quarkus-super-heroes.git
 [submodule "resources/java-graalvm-start"]
-	path = resources/java-graalvm-start
+	path = java-projects/java-graalvm-start
 	url = https://gitee.com/westinyang/java-graalvm-start.git
 [submodule "resources/quarkus-quick"]
-	path = resources/quarkus-quick
+	path = java-projects/quarkus-quick
 	url = https://github.com/quarkusio/quarkus-quickstarts.git
 [submodule "resources/dapr-quickstarts"]
-	path = resources/dapr-quickstarts
+	path = dapr-projects/dapr-quickstarts
 	url = https://github.com/dapr/quickstarts.git
 [submodule "resources/dapr"]
-	path = resources/dapr
+	path = dapr-projects/dapr
 	url = https://github.com/dapr/dapr.git
 [submodule "resources/dapr-samples"]
-	path = resources/dapr-samples
+	path = dapr-projects/dapr-samples
 	url = https://github.com/dapr/samples.git
 [submodule "resources/dapr-contrib"]
-	path = resources/dapr-contrib
+	path = dapr-projects/dapr-contrib
 	url = https://github.com/dapr/components-contrib.git
 [submodule "resources/dapr-docs"]
-	path = resources/dapr-docs
+	path = dapr-projects/dapr-docs
 	url = https://github.com/dapr/docs.git
 [submodule "resources/dapr-traffic-control"]
-	path = resources/dapr-traffic-control
+	path = dapr-projects/dapr-traffic-control
 	url = https://github.com/EdwinVW/dapr-traffic-control.git
 [submodule "resources/dapr-java-sdk"]
-	path = resources/dapr-java-sdk
+	path = dapr-projects/dapr-java-sdk
 	url = https://github.com/dapr/java-sdk.git
 [submodule "resources/dapr-demos"]
-	path = resources/dapr-demos
+	path = dapr-projects/dapr-demos
 	url = https://github.com/mchmarny/dapr-demos.git
 [submodule "resources/dhorse"]
 	path = resources/dhorse
 	url = https://gitee.com/i512team/dhorse.git
 [submodule "resources/Oxygen-Dapr.EshopSample"]
-	path = resources/Oxygen-Dapr.EshopSample
+	path = dapr-projects/Oxygen-Dapr.EshopSample
 	url = https://github.com/sd797994/Oxygen-Dapr.EshopSample.git
 [submodule "resources/ms-security-in-action"]
-	path = resources/ms-security-in-action
+	path = security-projects/ms-security-in-action
 	url = https://github.com/microservices-security-in-action/samples.git
 [submodule "resources/kubeedge/kubeedge"]
-	path = resources/kubeedge/kubeedge
+	path = kubeedge-projects/kubeedge
 	url = https://github.com/kubeedge/kubeedge.git
 [submodule "resources/kubeedge/community"]
-	path = resources/kubeedge/community
+	path = kubeedge-projects/community
 	url = https://github.com/kubeedge/community.git
 [submodule "resources/kubeedge/dashboard"]
-	path = resources/kubeedge/dashboard
+	path = kubeedge-projects/dashboard
 	url = https://github.com/kubeedge/dashboard.git
 [submodule "resources/kubeedge/examples"]
-	path = resources/kubeedge/examples
+	path = kubeedge-projects/examples
 	url = https://github.com/kubeedge/examples.git
 [submodule "resources/python-sdk"]
-	path = resources/python-sdk
+	path = dapr-projects/python-sdk
 	url = https://github.com/dapr/python-sdk.git
 [submodule "resources/swagger-codegen"]
-	path = resources/swagger-codegen
+	path = apidoc-projects/swagger-codegen
 	url = https://github.com/swagger-api/swagger-codegen.git
 [submodule "resources/openapi-generator"]
-	path = resources/openapi-generator
+	path = apidoc-projects/openapi-generator
 	url = https://github.com/OpenAPITools/openapi-generator.git
 [submodule "resources/springdoc/springdoc-openapi"]
-	path = resources/springdoc/springdoc-openapi
+	path = apidoc-projects/springdoc-openapi
 	url = https://github.com/springdoc/springdoc-openapi.git
 [submodule "resources/springdoc/springdoc-openapi-demos"]
-	path = resources/springdoc/springdoc-openapi-demos
+	path = apidoc-projects/springdoc-openapi-demos
 	url = https://github.com/springdoc/springdoc-openapi-demos.git
 [submodule "resources/gitlab4j"]
-	path = resources/gitlab4j
+	path = git-projects/gitlab4j
 	url = https://github.com/gitlab4j/gitlab4j-api.git
 [submodule "resources/hutool"]
-	path = resources/hutool
+	path = java-projects/hutool
 	url = https://github.com/dromara/hutool.git
 [submodule "resources/lamp-cloud"]
-	path = resources/lamp-cloud
+	path = app-demo-projects/lamp/lamp-cloud
 	url = https://github.com/dromara/lamp-cloud.git
 [submodule "resources/dromara/x-file-storage"]
 	path = resources/dromara/x-file-storage
@@ -161,100 +161,100 @@
 	path = resources/dramara/dante-oss
 	url = https://github.com/herodotus-ecosystem/dante-oss.git
 [submodule "resources/lamp-boot"]
-	path = resources/lamp-boot
+	path = app-demo-projects/lamp/lamp-boot
 	url = https://github.com/zuihou/lamp-boot.git
 [submodule "resources/lamp-utils"]
-	path = resources/lamp-utils
+	path = app-demo-projects/lamp/lamp-utils
 	url = https://github.com/zuihou/lamp-util.git
 [submodule "resources/gitegg"]
-	path = resources/gitegg
+	path = git-projects/gitegg
 	url = https://github.com/wmz1930/GitEgg.git
 [submodule "resources/gitegg-platform"]
-	path = resources/gitegg-platform
+	path = git-projects/gitegg-platform
 	url = https://github.com/wmz1930/gitegg-platform.git
 [submodule "resources/spring-cloud-gateway"]
-	path = resources/spring-cloud-gateway
+	path = spring-cloud-projects/spring-cloud-gateway
 	url = https://github.com/spring-cloud/spring-cloud-gateway.git
 [submodule "resources/spring-boot-admin"]
-	path = resources/spring-boot-admin
+	path = spring-boot-projects/spring-boot-admin
 	url = https://github.com/codecentric/spring-boot-admin.git
 [submodule "resources/spring-security-samples"]
-	path = resources/spring-security-samples
+	path = spring-security-projects/spring-security-samples
 	url = https://github.com/spring-projects/spring-security-samples.git
 [submodule "resources/java-tutorials-all"]
-	path = resources/java-tutorials-all
+	path = java-projects/java-tutorials-all
 	url = https://github.com/eugenp/tutorials.git
 [submodule "resources/jwt-opa"]
-	path = resources/jwt-opa
+	path = security-projects/jwt-opa
 	url = https://github.com/massenz/jwt-opa.git
 [submodule "resources/topiam-eiam"]
-	path = resources/topiam-eiam
+	path = security-projects/topiam-eiam
 	url = https://gitee.com/topiam/eiam.git
 [submodule "resources/spring-learning-parent"]
-	path = resources/spring-learning-parent
+	path = spring-projects/spring-learning-parent
 	url = https://github.com/mingyang66/spring-parent.git
 [submodule "resources/opa-spring-security"]
-	path = resources/opa-spring-security
+	path = security-projects/opa-spring-security
 	url = https://github.com/Bisnode/opa-spring-security.git
 [submodule "resources/spring-security-explain"]
-	path = resources/spring-security-explain
+	path = spring-security-projects/spring-security-explain
 	url = https://github.com/BUG9/spring-security.git
 [submodule "resources/spring-security-2"]
-	path = resources/spring-security-2
+	path = spring-security-projects/spring-security-2
 	url = https://github.com/longfeizheng/logback.git
 [submodule "resources/spring-security-samples-2"]
-	path = resources/spring-security-samples-2
+	path = spring-security-projects/spring-security-samples-2
 	url = https://github.com/lenve/spring-security-samples.git
 [submodule "resources/spring-oauth2-samples2"]
-	path = resources/spring-oauth2-samples2
+	path = spring-security-projects/spring-oauth2-samples2
 	url = https://github.com/lenve/oauth2-samples.git
 [submodule "resources/study-spring-security-demo"]
-	path = resources/study-spring-security-demo
+	path = spring-security-projects/study-spring-security-demo
 	url = https://gitee.com/pearl-organization/study-spring-security-demo
 [submodule "resources/spring-security-registration"]
-	path = resources/spring-security-registration
+	path = spring-security-projects/spring-security-registration
 	url = https://github.com/Baeldung/spring-security-registration.git
 [submodule "resources/spring-security"]
-	path = resources/spring-security
+	path = spring-security-projects/spring-security
 	url = https://github.com/spring-projects/spring-security.git
 [submodule "resources/justauth"]
-	path = resources/justauth
+	path = security-projects/justauth
 	url = https://github.com/justauth/JustAuth.git
 [submodule "resources/spring-boot-learning-demo"]
-	path = resources/spring-boot-learning-demo
+	path = spring-boot-projects/spring-boot-learning-demo
 	url = https://gitee.com/he-erduo/spring-boot-learning-demo.git
 [submodule "resources/spring-boot-reactive-example"]
-	path = resources/spring-boot-reactive-example
+	path = spring-boot-projects/spring-boot-reactive-example
 	url = https://github.com/jittagornp/spring-boot-reactive-example.git
 [submodule "resources/mall-swarm"]
-	path = resources/mall-swarm
+	path = app-demo-projects/mall-swarm
 	url = https://github.com/macrozheng/mall-swarm.git
 [submodule "resources/spring-boot-best-practice"]
-	path = resources/spring-boot-best-practice
+	path = spring-boot-projects/spring-boot-best-practice
 	url = https://github.com/javastacks/spring-boot-best-practice.git
 [submodule "resources/gitlab"]
-	path = resources/gitlab
+	path = git-projects/gitlab
 	url = https://github.com/gitlabhq/gitlabhq.git
 [submodule "resources/gitlab-operator"]
-	path = resources/gitlab-operator
+	path = git-projects/gitlab-operator
 	url = https://gitlab.com/gitlab-org/cloud-native/gitlab-operator.git
 [submodule "resources/gitlab-charts"]
-	path = resources/gitlab-charts
+	path = git-projects/gitlab-charts
 	url = https://gitlab.com/gitlab-org/charts/gitlab.git
 [submodule "resources/java-gitea-api"]
-	path = resources/java-gitea-api
+	path = git-projects/java-gitea-api
 	url = https://github.com/zeripath/java-gitea-api.git
 [submodule "resources/gitea"]
-	path = resources/gitea
+	path = git-projects/gitea
 	url = https://github.com/go-gitea/gitea.git
 [submodule "resources/full-stack-fastapi-template"]
-	path = resources/full-stack-fastapi-template
+	path = others-projects/full-stack-fastapi-template
 	url = https://github.com/tiangolo/full-stack-fastapi-template.git
 [submodule "resources/kubeedge/mappers-go"]
-	path = resources/kubeedge/mappers-go
+	path = kubeedge-projects/mappers-go
 	url = https://github.com/kubeedge/mappers-go.git
 [submodule "resources/kubeedge/edgemesh"]
-	path = resources/kubeedge/edgemesh
+	path = kubeedge-projects/edgemesh
 	url = https://github.com/kubeedge/edgemesh.git
 [submodule "resources/iot-simulators/simulators"]
 	path = resources/iot-simulators/simulators
@@ -269,8 +269,8 @@
 	path = resources/iot-simulators/java-modbus-simulator
 	url = https://github.com/SciFiDryer/ModbusMechanic.git
 [submodule "resources/kubeedge/mapper-generator"]
-	path = resources/kubeedge/mapper-generator
+	path = kubeedge-projects/mapper-generator
 	url = https://github.com/wbc6080/mapper-generator.git
 [submodule "resources/kubeedge/mappers-go-others"]
-	path = resources/kubeedge/mappers-go-others
+	path = kubeedge-projects/mappers-go-others
 	url = https://github.com/wbc6080/mappers-go.git
