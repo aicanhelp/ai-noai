@@ -274,3 +274,6 @@
 [submodule "resources/kubeedge/mappers-go-others"]
 	path = kubeedge-projects/mappers-go-others
 	url = https://github.com/wbc6080/mappers-go.git
+[submodule "resources/security"]
+	path = resources/security
+	url = https://github.com/chris2511/xca.git
