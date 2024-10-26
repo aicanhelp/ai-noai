@@ -277,3 +277,51 @@
 [submodule "resources/security"]
 	path = resources/security
 	url = https://github.com/chris2511/xca.git
+[submodule "security-projects/certmagic"]
+	path = security-projects/certmagic
+	url = https://github.com/caddyserver/certmagic.git
+[submodule "security-projects/certimate"]
+	path = security-projects/certimate
+	url = https://github.com/usual2970/certimate.git
+[submodule "security-projects/xca"]
+	path = security-projects/xca
+	url = https://github.com/chris2511/xca.git
+[submodule "security-projects/ejbca-ce"]
+	path = security-projects/ejbca-ce
+	url = https://github.com/Keyfactor/ejbca-ce.git
+[submodule "golang-projects/fasthttp"]
+	path = golang-projects/fasthttp
+	url = https://github.com/valyala/fasthttp.git
+[submodule "onlyoffice-projects/DocumentServer"]
+	path = onlyoffice-projects/DocumentServer
+	url = https://github.com/ONLYOFFICE/DocumentServer.git
+[submodule "apisix-projects/apisix"]
+	path = apisix-projects/apisix
+	url = https://github.com/apache/apisix.git
+[submodule "apisix-projects/apisix-dashboard"]
+	path = apisix-projects/apisix-dashboard
+	url = https://github.com/apache/apisix-dashboard.git
+[submodule "apisix-projects/apisix-docker"]
+	path = apisix-projects/apisix-docker
+	url = https://github.com/apache/apisix-docker.git
+[submodule "apisix-projects/apisix-ingress-controller"]
+	path = apisix-projects/apisix-ingress-controller
+	url = https://github.com/apache/apisix-ingress-controller.git
+[submodule "apisix-projects/apisix-helm-chart"]
+	path = apisix-projects/apisix-helm-chart
+	url = https://github.com/apache/apisix-helm-chart.git
+[submodule "apisix-projects/apisix-java-plugin-runner"]
+	path = apisix-projects/apisix-java-plugin-runner
+	url = https://github.com/apache/apisix-java-plugin-runner.git
+[submodule "apisix-projects/apisix-go-plugin-runner"]
+	path = apisix-projects/apisix-go-plugin-runner
+	url = https://github.com/apache/apisix-go-plugin-runner.git
+[submodule "apisix-projects/apisix-build-tools"]
+	path = apisix-projects/apisix-build-tools
+	url = https://github.com/api7/apisix-build-tools.git
+[submodule "security-projects/opa/opa"]
+	path = security-projects/opa/opa
+	url = https://github.com/open-policy-agent/opa.git
+[submodule "security-projects/opa/gatekeeper"]
+	path = security-projects/opa/gatekeeper
+	url = https://github.com/open-policy-agent/gatekeeper.git

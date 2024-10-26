@@ -32,7 +32,7 @@ function do_add() {
 
    MOD_NAME=${project_dir}/${name}
    mkdir -p ${project_dir}
-   git submodule add ${repo} ${type}-projects/$name
+   git submodule add ${repo} ${MOD_NAME}
 }
 
 function do_list() {
