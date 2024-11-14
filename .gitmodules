@@ -325,3 +325,9 @@
 [submodule "security-projects/opa/gatekeeper"]
 	path = security-projects/opa/gatekeeper
 	url = https://github.com/open-policy-agent/gatekeeper.git
+[submodule "aicanhelp-projects/apisix-dashboard"]
+	path = aicanhelp-projects/apisix-dashboard
+	url = https://github.com/aicanhelp/apisix-dashboard.git
+[submodule "security-projects/cert-manager"]
+	path = security-projects/cert-manager
+	url = https://github.com/cert-manager/cert-manager.git
