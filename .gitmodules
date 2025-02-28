@@ -331,3 +331,6 @@
 [submodule "security-projects/cert-manager"]
 	path = security-projects/cert-manager
 	url = https://github.com/cert-manager/cert-manager.git
+[submodule "apisix-projects/nginx-lua-prometheus"]
+	path = apisix-projects/nginx-lua-prometheus
+	url = https://github.com/api7/nginx-lua-prometheus.git
