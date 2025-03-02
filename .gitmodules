@@ -334,3 +334,21 @@
 [submodule "apisix-projects/nginx-lua-prometheus"]
 	path = apisix-projects/nginx-lua-prometheus
 	url = https://github.com/api7/nginx-lua-prometheus.git
+[submodule "lua-projects/copas"]
+	path = lua-projects/copas
+	url = https://github.com/lunarmodules/copas.git
+[submodule "lua-projects/lua-periphery"]
+	path = lua-projects/lua-periphery
+	url = https://github.com/vsergeev/lua-periphery.git
+[submodule "lua-projects/Lua-Quick-Start-Guide"]
+	path = lua-projects/Lua-Quick-Start-Guide
+	url = https://github.com/PacktPublishing/Lua-Quick-Start-Guide.git
+[submodule "apisix-projects/lua-resty-etcd"]
+	path = apisix-projects/lua-resty-etcd
+	url = https://github.com/api7/lua-resty-etcd.git
+[submodule "apisix-projects/lua-resty-jwt"]
+	path = apisix-projects/lua-resty-jwt
+	url = https://github.com/api7/lua-resty-jwt.git
+[submodule "apisix-projects/lua-resty-limit-traffic"]
+	path = apisix-projects/lua-resty-limit-traffic
+	url = https://github.com/api7/lua-resty-limit-traffic.git
