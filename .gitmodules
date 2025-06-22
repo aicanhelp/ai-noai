@@ -352,3 +352,27 @@
 [submodule "apisix-projects/lua-resty-limit-traffic"]
 	path = apisix-projects/lua-resty-limit-traffic
 	url = https://github.com/api7/lua-resty-limit-traffic.git
+[submodule "spring-cloud-projects/spring-cloud-build"]
+	path = spring-cloud-projects/spring-cloud-build
+	url = https://github.com/spring-cloud/spring-cloud-build.git
+[submodule "spring-projects/spring-doc-example"]
+	path = spring-projects/spring-doc-example
+	url = https://github.com/vains-Sofia/spring-doc-example.git
+[submodule "security-projects/justauth-spring-boot-security-starter"]
+	path = security-projects/justauth-spring-boot-security-starter
+	url = https://github.com/justauth/justauth-spring-boot-security-starter.git
+[submodule "security-projects/SpringBlade"]
+	path = security-projects/SpringBlade
+	url = https://github.com/chillzhuang/SpringBlade.git
+[submodule "security-projects/UMS"]
+	path = security-projects/UMS
+	url = https://github.com/ZeroOrInfinity/UMS.git
+[submodule "security-projects/pig"]
+	path = security-projects/pig
+	url = https://github.com/pig-mesh/pig.git
+[submodule "security-projects/blade-tool"]
+	path = security-projects/blade-tool
+	url = https://github.com/chillzhuang/blade-tool.git
+[submodule "dapr-projects/dashboard"]
+	path = dapr-projects/dashboard
+	url = https://github.com/dapr/dashboard.git
